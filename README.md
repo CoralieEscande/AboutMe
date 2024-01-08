@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I’m @CoralieEscande and i am living in Ramonville (south of Toulouse in south of France)
-- 👀 I’m interested in navigation, guidance, localisation, motion control, sensor data fusion, ... for mobile robots defined as following : moving intelligent and/or autonomous systems including sensors and actuators
+- I’m @CoralieEscande and i am living in Cornebarrieu (south of Toulouse in south of France)
+- 👀 I’m interested in navigation, guidance, localisation, motion control, sensor data fusion, ... for mobile intelligent systems
 - 🌱 I’m currently learning Python coding with OpenClassRooms and i am refreshing my knowledges in automation through moocs from the engineer school ENSTA Bretagne (https://www.ensta-bretagne.fr/jaulin/)
 - 💞️👯 I’m looking to collaborate on scientific project of applied research for a better future
 - 🔭 I’m currently looking for a job in Toulouse area.
@@ -14,7 +14,7 @@ My CV : [09062022_IngenieurRobotique_CV_ESCANDE_Coralie.pdf](https://github.com/
 
 - 😄 Pronouns: she / her
 - 💬 Ask me about storage and sorting according to Marie Kondo method
-- 🤔 I’m looking for help with guitar playing for scout camp
+- 🤔 I’m looking for help with pastry creations
 - ⚡ Fun fact: i am experimenting growing plants from seeds extracted from fruits and vegetables
 
 <!---
